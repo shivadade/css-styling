@@ -1,0 +1,15 @@
+article > p::first-line{
+background-color:blue
+}
+artcle > p::first-letter{
+    background-color:green;
+    font-size:50px;
+}
+article > p::after{
+    content: "";
+}
+article >p::first-line{
+    letter-spacing:5px;
+    color:red;
+       
+}

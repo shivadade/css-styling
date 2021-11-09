@@ -1,0 +1,18 @@
+main{
+    padding:6px 12px;
+    box-sizing:border-box;
+}
+h1{
+    color:rgb(0, 255, 76);
+    text-shadow:8px 8px 8px black;
+    width:400px;
+    height:400px;
+    border-radious:10px;
+    background-color:slateblue;
+    box-shadow:black;
+}
+h2{
+    backgroung-color:red;
+    box-shadow:slategray;
+    color:green;
+    text-shadow:7px 7px 7px  black;

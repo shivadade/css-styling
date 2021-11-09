@@ -1,0 +1,11 @@
+article{
+    padding:40px; 
+    margin:28px;
+    font-size:35px;
+    background-color:springgreen;
+    border-radius:15px;
+}
+div + p{
+    background-color:yellow
+    font-size:35px;
+}
